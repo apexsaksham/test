@@ -7,4 +7,6 @@ add something new notes
 
 there are some error
 
-my name is gus
+found some new error
+add some more content
+mark some error
